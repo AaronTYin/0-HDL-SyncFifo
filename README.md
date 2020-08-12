@@ -1,3 +1,3 @@
-# SyncFifo
+# O-HDL-SyncFifo
 
->具体项目过程记录详见：[同步FIFO的FPGA设计](https://mengze.top/同步FIFO的FPGA设计/)或项目内文档。
+>详见：[【O】同步FIFO的FPGA实现](https://mengze.top/[O]同步FIFO的FPGA实现/)或项目内文档。
